@@ -1,0 +1,30 @@
+B2 C3# 
+C3 C3# D3 
+C3# 
+C3# 
+C3 C3# 
+B2 C3# 
+C3# 
+D1# E1 D3 
+B2 C3 
+C3 D3 
+C3 
+D1# E1 B2 C3 
+C3 C3# 
+C3# 
+D3 
+C3 C3# 
+C3# 
+C3# 
+C3 C3# 
+C3# D3 
+B2 C3# 
+C3 C3# 
+B2 C3 C3# 
+C3# 
+B2 D3 
+C3 C3# D3 
+D3 
+C3 C3# 
+D3 
+C3 

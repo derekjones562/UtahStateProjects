@@ -1,0 +1,2 @@
+type nasa_data\small_access_log_Jul95_01.txt | perl fltr_wlog_ip_trbts_toops.pl | perl dsc_sort_ip_trbts_toops.pl | perl top_n.pl
+type nasa_data\small_access_log_Jul95_01.txt | perl fltr_wlog_status_codes.pl 200 | perl count_lines.pl
